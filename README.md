@@ -1,5 +1,5 @@
-# Lempereurjulien.github.io
-Portfolio de Julien Lempereur, étudiant en BTS SIO
+# Portfolio de Julien Lempereur, étudiant en BTS SIO
+
 
 **1.Mettre en oeuvre les tecnologies web pour créer et héberger mon portfolio**
 |![Netbeans](https://raw.githubusercontent.com/Lempereurjulien/Lempereurjulien.github.io/main/Logo%20netbeans%20(Personnalis%C3%A9).png)|![Html](https://raw.githubusercontent.com/Lempereurjulien/Lempereurjulien.github.io/main/Logo%20Html%20(Personnalis%C3%A9).png)|![CSS](https://raw.githubusercontent.com/Lempereurjulien/Lempereurjulien.github.io/main/Logo%20css%20(Personnalis%C3%A9).png)|![Bootstrap](https://raw.githubusercontent.com/Lempereurjulien/Lempereurjulien.github.io/main/logo%20bootstrap%20(Personnalis%C3%A9).png)|![Git](https://raw.githubusercontent.com/Lempereurjulien/Lempereurjulien.github.io/main/logo%20git%20(Personnalis%C3%A9).png)|![GitHub](https://raw.githubusercontent.com/Lempereurjulien/Lempereurjulien.github.io/main/GitHub%20logo%20(Personnalis%C3%A9).png)|
