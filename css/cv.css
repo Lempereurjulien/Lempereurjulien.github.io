@@ -1,5 +1,5 @@
 body{padding-top: 50px;}
-.cadreCV{padding-bottom: 15px; background: white;}
+.cadreCV{padding-bottom: 15px; background: #B7FFE9 ;} 
 
 /******************************************
 *       En-tête du CV
@@ -94,3 +94,9 @@ body{padding-top: 50px;}
  #parcours .details { width: 87%; }
 } 
 
+
+/*************************
+* Expérience Professionel*
+**************************/
+
+ 
