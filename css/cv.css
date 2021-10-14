@@ -1,5 +1,5 @@
 body{padding-top: 50px;}
-.cadreCV{padding-bottom: 15px; background: #C2D8FF;} 
+.cadreCV{padding-bottom: 15px; background: #FFFFFFFF;} 
 
 /******************************************
 *       En-tête du CV
@@ -18,7 +18,7 @@ body{padding-top: 50px;}
 **************************************/
 
 .rubrique{margin-bottom: 15px; }
-.rubrique h2 { color: rgb(226,0,26); }
+.rubrique h2 { color: #33CCFF; }
 .rubrique h2::before{ margin-right: 5px; }
 .rubrique p{ font-size: 1.3em; line-height: 1.5em; }
 
